@@ -1,74 +1,81 @@
 <!-- BANNER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Nh1XKgg0DfC4M/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
 </p>
 
-<h1 align="center">⚔️ Priyanshu | Cybersecurity Mercenary ⚔️</h1>
+<h1 align="center">🛡️ Priyanshu | Cyber Ops & CTF Specialist 🛡️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Driven-black?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Linux-Warrior-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Hacker-Mentality-red?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/CTF-Player-red?style=for-the-badge&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Penetration-Tester-black?style=for-the-badge&logo=protonvpn" />
 </p>
 
 ---
 
-### 👾 About Me
+### 🧠 About Me
 
-- 🛡️ **Cybersecurity Enthusiast** | Focused on Offensive Security, Ethical Hacking, and Threat Hunting  
-- 💣 Trained on **Kali Linux**, **Aircrack-ng**, **SQLMap**, **XSSer**, **Burp Suite**, and more  
-- 🎯 Built projects like **SSH Honeypots**, **Web Honeypots**, and **Payload-based Exploits**  
-- 🧠 Constantly learning — Windows Exploitation, Network Attacks, and Red Teaming Tactics  
-- 💪 Discipline > Motivation | I believe in execution, not excuses  
-- 🧵 Currently grinding for **eJPT**, **OSCP**, and **Advanced Pentesting Mastery**
-
----
-
-### 🔥 Tech Arsenal
-
-- 💻 Languages: `C`, `C++`, `Java`, `Python`, `Bash`
-- 🧰 Tools: `Nmap`, `RustScan`, `Metasploit`, `Aircrack-ng`, `Wireshark`, `Burp Suite`, `John the Ripper`
-- ⚙️ Platforms: `Kali Linux`, `Parrot OS`, `Windows`, `VirtualBox`, `Docker`
+- 🛡️ **Cybersecurity Enthusiast** focused on **offensive security** and **penetration testing**
+- 🔍 Currently deep diving into:
+  - `OSINT`
+  - `Steganography`
+  - `Digital Forensics`
+- 🕵️‍♂️ **CTF Player** — Solving pwn, reverse, crypto, and web challenges like a tactician
+- 💣 Tools I work with:
+  - `Burp Suite`, `SQLMap`, `Aircrack-ng`, `Nmap`, `RustScan`, `Wireshark`, `John the Ripper`
+- 💻 Languages: `Python`, `Bash`, `C`, `C++`, `Java`
+- 🧰 OS Experience: `Kali Linux`, `Parrot OS`, `Windows`, `VirtualBox`, `Docker`
 
 ---
 
-### 📂 Current Projects
+### 🕸️ Projects
 
-- 🎯 **SSH Honeypot Simulator** – Mimics realistic SSH behavior + logs intruder IPs & geolocation  
-- 🕸️ **Web-Based Honeypot** – Frontend traps + backend event logging in real-time  
-- 👀 **Payload Injector** – Automatic payload testing system for XSS & SQLi
-
----
-
-### 💀 My Mindset
-
-> “Weakness disgusts me. I destroy it in myself, then in everything I touch.”  
-> “Cowardice is a sin — pain is data — discipline is salvation.”  
+- ✅ **Web-Based Research Honeypot**  
+  ↳ Logs attacker behavior, analyzes input vectors, and monitors endpoint abuse
 
 ---
 
-### 🔥 Cyber GIFs for Your Soul
+### 🎯 CTF Profile
+
+> “Capture the flag? I capture the f*cking infrastructure.”
+
+- Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
+- Strengths:
+  - `Linux/Windows Privilege Escalation`
+  - `OSINT Recon & Social Engineering`
+- Current grind: `Windows Exploitation`, `Forensics Labs`, and `Stego challenges`
+
+
+### 💻 Cyber Aesthetic
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400"><br/>
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/11R9WZqbiOa6rK/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/3o7aCPVbGNzAr3cD8o/giphy.gif" width="400"><br/>
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400">
 </p>
 
 ---
 
-### 📫 Connect with the Machine Behind the Mask
+### 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
-- 🧠 [TryHackMe](https://tryhackme.com/p/YOURUSERNAME)  
-- 🔐 [Hack The Box](https://app.hackthebox.com/profile/YOURUSERNAME)  
+- 💼 [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)
+- 🧠 [TryHackMe](https://tryhackme.com/p/snowaxe)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+Code.+I+Hack.+I+Conquer.&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Capture+%7C+Repeat&center=true&size=25">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" width="400"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>No fluff. Just shells, logs, and wreckage.</strong>
+</p>
