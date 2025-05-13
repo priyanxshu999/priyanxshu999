@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
 </p>
 
-<h1 align="center">🛡️ Priyanshu | Cyber Ops & CTF Specialist 🛡️</h1>
+<h1 align="center">🛡️ Priyanshu 🛡️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Driven-black?style=for-the-badge&logo=hackthebox" />
