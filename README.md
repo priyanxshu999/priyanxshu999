@@ -40,7 +40,7 @@
 ### 💻 Cyber Aesthetic
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="400">
+  <img src="https://media.tenor.com/rpQ0BD_XIfUAAAAC/ghost-staring.gif" width="400"/>
 </p>
 
 ---
