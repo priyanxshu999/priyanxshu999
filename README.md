@@ -32,8 +32,8 @@
 
 - Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
 - Strengths:
-  - `Linux/Windows Privilege Escalation`
-  - `OSINT Recon & Social Engineering`
+  - `Linux Privilege Escalation`
+  - `OSINT Recon & Steganography`
 - Current grind: `Windows Exploitation`, `Forensics Labs`, and `Stego challenges`
 
 
