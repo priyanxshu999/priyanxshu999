@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanxshu999&show_icons=true&theme=radical" width="400" />
 </p>
 
 ---
