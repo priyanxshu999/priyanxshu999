@@ -41,9 +41,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/3o7aCPVbGNzAr3cD8o/giphy.gif" width="400"><br/>
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400">
 </p>
 
 ---
@@ -61,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical" width="400"/>
 </p>
 
 ---
