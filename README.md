@@ -54,7 +54,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Capture+%7C+Repeat&center=true&size=25">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Repeat&center=true&size=30">
+
 </p>
 
 <p align="center">
