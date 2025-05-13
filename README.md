@@ -16,11 +16,8 @@
   - `OSINT`
   - `Steganography`
   - `Digital Forensics`
-- 🕵️‍♂️ **CTF Player** — Solving pwn, reverse, crypto, and web challenges like a tactician
-- 💣 Tools I work with:
-  - `Burp Suite`, `SQLMap`, `Aircrack-ng`, `Nmap`, `RustScan`, `Wireshark`, `John the Ripper`
-- 💻 Languages: `Python`, `Bash`, `C`, `C++`, `Java`
-- 🧰 OS Experience: `Kali Linux`, `Parrot OS`, `Windows`, `VirtualBox`, `Docker`
+- 🕵️‍♂️ **CTF Player** — Solving osint , steganography challenges
+- 💻 Languages: `Python`
 
 ---
 
