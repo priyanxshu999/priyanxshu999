@@ -37,11 +37,12 @@
 - Current grind: `Windows Exploitation`, `Forensics Labs`, and `Stego challenges`
 
 
-### 💻 Cyber Aesthetic
+
 
 <p align="center">
-  <img src="https://media.tenor.com/rpQ0BD_XIfUAAAAC/ghost-staring.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJwN29mOThpYTZmNGx5ZmM5cWpqZGQ1eHh3c2FkZHM2ZDQyOWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="400"/>
 </p>
+
 
 ---
 
