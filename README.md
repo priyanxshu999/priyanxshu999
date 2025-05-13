@@ -16,7 +16,7 @@
   - `OSINT`
   - `Steganography`
   - `Digital Forensics`
-- 🕵️‍♂️ **CTF Player** — Solving osint , steganography challenges
+- 🕵️‍♂️ **CTF Player** — Solving osint , steganography and digital forensics challenges
 - 💻 Languages: `Python`
 
 ---
