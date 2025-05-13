@@ -1,8 +1,3 @@
-<!-- BANNER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
-</p>
-
 <h1 align="center">🛡️ Priyanshu 🛡️</h1>
 
 <p align="center">
@@ -37,8 +32,6 @@
 ---
 
 ### 🎯 CTF Profile
-
-> “Capture the flag? I capture the f*cking infrastructure.”
 
 - Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
 - Strengths:
