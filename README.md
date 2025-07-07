@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Priyanshu 🛡️</h1>
+<h1 align="center">🛡️ Priyanshu — Offensive Security Operative 🛡️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Driven-black?style=for-the-badge&logo=hackthebox" />
@@ -9,59 +9,57 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 Who Am I?
 
-- 🛡️ **Cybersecurity Enthusiast** focused on **offensive security** and **penetration testing**
-- 🔍 Currently deep diving into:
+- 🛡️ **Cybersecurity practitioner** focused on **offensive security**, **ethical hacking**, and **real-world exploit simulation**
+- 🔎 Digging deep into:
   - `OSINT`
   - `Steganography`
   - `Digital Forensics`
-- 🕵️‍♂️ **CTF Player** — Solving osint , steganography and digital forensics challenges
-- 💻 Languages: `Python`
+- ⚔️ **CTF Operator** — Specializing in OSINT, stego, and DFIR scenarios
+- 💻 Weapon of choice: `Python`
 
 ---
 
-### 🕸️ Projects
+## 🕸️ Projects
 
-- ✅ **Web-Based Research Honeypot**  
-  ↳ Logs attacker behavior, analyzes input vectors, and monitors endpoint abuse
+- ✅ **Web-Based Honeypot Trap**  
+  ↳ Designed to **log attacker behavior**, **analyze injection vectors**, and **monitor endpoint abuse**  
+  ↳ Tracks **unauthorized access**, logs **malicious payloads**, and **mirrors authentic services**
 
 ---
 
-### 🎯 CTF Profile
+## 🎯 CTF Stats & Grind
 
-- Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
-- Strengths:
+- 🔐 Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
+- ⚡ Strengths:
   - `Linux Privilege Escalation`
-  - `OSINT Recon & Steganography`
-- Current grind: `Windows Exploitation`, `Forensics Labs`, and `Stego challenges`
+  - `OSINT Recon`
+  - `Steganography`
+- 🔥 Current Focus:
+  - `Windows Exploitation`
+  - `Memory & Disk Forensics`
+  - `Stego Labs`
 
-
-
+---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJwN29mOThpYTZmNGx5ZmM5cWpqZGQ1eHh3c2FkZHM2ZDQyOWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJwN29mOThpYTZmNGx5ZmM5cWpqZGQ1eHh3c2FkZHM2ZDQyOWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="400" />
 </p>
-
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact & Profiles
 
-- 💼 [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)
+- 🔗 [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)
 - 🧠 [TryHackMe](https://tryhackme.com/p/snowaxe)
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Capture+%7C+Repeat&center=true&size=15">
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Capture+%7C+Repeat&center=true&size=20&duration=4000">
 </p>
-
-
 
 ---
 
-<p align="center">
-  <strong>No fluff. Just shells, logs, and wreckage.</strong>
-</p>
+<p align="center"><strong>Zero sugar. Just shells, logs, and digital carnage.</strong></p>
