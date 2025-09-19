@@ -66,5 +66,5 @@
 
 ---
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&bg=111111&borderRadius=25px&idleMessage=⚡ Running exploits..." />
+  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&bg=232323&borderRadius=20px&hideDiscrim=true&hideBadges=true&idleMessage=Sleeping+in+the+matrix..." />
 </p>
