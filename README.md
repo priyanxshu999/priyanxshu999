@@ -1,45 +1,52 @@
-<h1 align="center">🛡️ Priyanshu — Offensive Security Operative 🛡️</h1>
+<h1 align="center">⚔️ Priyanshu ⚔️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Driven-black?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Linux-Warrior-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/CTF-Player-red?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Penetration-Tester-black?style=for-the-badge&logo=protonvpn" />
+  <img src="https://img.shields.io/badge/Red%20Teamer-black?style=for-the-badge&logo=protonvpn" />
+  <img src="https://img.shields.io/badge/Linux%20Specialist-gray?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/CTF%20Player-red?style=for-the-badge&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Exploit%20Developer-darkred?style=for-the-badge&logo=hackthebox" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
-
-- 🛡️ **Cybersecurity practitioner** focused on **offensive security**, **ethical hacking**, and **real-world exploit simulation**
-- 🔎 Digging deep into:
-  - `OSINT`
-  - `Steganography`
-  - `Digital Forensics`
-- ⚔️ **CTF Operator** — Specializing in OSINT, stego, and DFIR scenarios
-- 💻 Weapon of choice: `Python`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+|+Exploit+|+Capture+|+Repeat;No+logs+left+behind.;One+man+cyber+unit.&center=true&size=20&duration=4000">
+</p>
 
 ---
 
-## 🕸️ Projects
+## 🕶️ Operator Profile
 
-- ✅ **Web-Based Honeypot Trap**  
-  ↳ Designed to **log attacker behavior**, **analyze injection vectors**, and **monitor endpoint abuse**  
-  ↳ Tracks **unauthorized access**, logs **malicious payloads**, and **mirrors authentic services**
+- 💣 **Offensive Security Operative** — simulating **real-world intrusions**
+- 🔍 Focus Zones: `OSINT` | `Steganography` | `DFIR`
+- 🎯 Specialization: **Red-Team Recon & CTF Operations**
+- 💻 Arsenal: Python | Bash | Custom Exploit Scripts
+- 🛡️ Mission: **Hunt everything down. No mercy.**
 
 ---
 
-## 🎯 CTF Stats & Grind
+## 🎯 Mission Logs (Projects)
 
-- 🔐 Platforms: `TryHackMe`, `HackTheBox`, `CTFtime`
-- ⚡ Strengths:
-  - `Linux Privilege Escalation`
-  - `OSINT Recon`
-  - `Steganography`
-- 🔥 Current Focus:
-  - `Windows Exploitation`
-  - `Memory & Disk Forensics`
-  - `Stego Labs`
+- 🕸️ **Web-Based Honeypot Trap**  
+  ↳ Mirrors real services, **tricks attackers**, and logs their every move  
+  ↳ Captures payloads, **studies attack vectors**, strengthens defenses  
+
+- 📡 **OSINT Recon Kits** *(Private)*  
+  ↳ Automated dorks, metadata extraction, and social-engineering footprints  
+
+---
+
+## ⚡ Engagements & Skill Zones
+
+- Platforms: `TryHackMe` | `HackTheBox` | `CTFtime`  
+- Strongholds:  
+  - Linux Privilege Escalation  
+  - Steganography & Hidden Data Extraction  
+  - OSINT Recon Chains  
+- Current Ops:  
+  - Windows Exploitation  
+  - Memory/Disk Forensics  
+  - Custom Stego Labs  
 
 ---
 
@@ -49,24 +56,17 @@
 
 ---
 
-## 📫 Contact & Profiles
+## 📡 Comms Channel
 
-- 🔗 [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)
-- 🧠 [TryHackMe](https://tryhackme.com/p/snowaxe)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+%7C+Exploit+%7C+Capture+%7C+Repeat&center=true&size=20&duration=4000">
-</p>
+- [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)  
+- [TryHackMe](https://tryhackme.com/p/snowaxe)  
 
 ---
 
-
+## 🎮 Live Status
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
        alt="Discord Presence" 
        style="width: 70%; max-width: 100%; height: auto; border-radius: 20px;" />
 </p>
-
