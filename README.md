@@ -64,7 +64,8 @@
 
 <p align="center"><strong>Zero sugar. Just shells, logs, and digital carnage.</strong></p>
 
----
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." />
+  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
+       alt="Discord Presence" 
+       style="max-width: 100%; height: auto; border-radius: 20px;" />
 </p>
