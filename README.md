@@ -62,7 +62,7 @@
 
 ---
 
-<p align="center"><strong>Zero sugar. Just shells, logs, and digital carnage.</strong></p>
+
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
