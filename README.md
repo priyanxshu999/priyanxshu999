@@ -65,6 +65,5 @@
 <p align="center"><strong>Zero sugar. Just shells, logs, and digital carnage.</strong></p>
 
 ---
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/971076696189067335?theme=dark&borderRadius=20px&idleMessage=Sleeping+in+the+matrix...">
-</p>
+![🎮 Now Playing](https://lanyard.cnrad.dev/971076696189067335)
+
