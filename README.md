@@ -66,5 +66,5 @@
 
 ---
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/971076696189067335&hideAvatar=true" />
+  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." />
 </p>
