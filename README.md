@@ -66,5 +66,5 @@
 
 ---
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/971076696189067335" />
+  <img src="https://lanyard.cnrad.dev/api/971076696189067335&hideAvatar=true" />
 </p>
