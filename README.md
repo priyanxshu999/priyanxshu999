@@ -21,7 +21,7 @@
 - 🔍 Focus Zones: `OSINT` | `Steganography` | `DFIR`
 - 🎯 Specialization: **Red-Team Recon & CTF Operations**
 - 💻 Arsenal: Python | Bash | Custom Exploit Scripts
-- 🛡️ Mission: **Hunt everything down. No mercy.**
+
 
 ---
 
