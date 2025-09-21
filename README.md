@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Red%20Teamer-black?style=for-the-badge&logo=protonvpn" />
   <img src="https://img.shields.io/badge/Linux%20Specialist-gray?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/CTF%20Player-red?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Exploit%20Developer-darkred?style=for-the-badge&logo=hackthebox" />
 </p>
 
 ---
