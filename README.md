@@ -14,7 +14,7 @@
 
 ---
 
-## 🕶️ Operator Profile
+## 🕶️Profile
 
 - 💣 **Offensive Security Operative** — simulating **real-world intrusions**
 - 🔍 Focus Zones: `OSINT` | `Steganography` | `DFIR`
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Mission Logs (Projects)
+## 🎯Projects
 
 - 🕸️ **Web-Based Honeypot Trap**  
   ↳ Mirrors real services, **tricks attackers**, and logs their every move  
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ Engagements & Skill Zones
+## ⚡Skills
 
 - Platforms: `TryHackMe` | `HackTheBox` | `CTFtime`  
 - Strongholds:  
