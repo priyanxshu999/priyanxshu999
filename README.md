@@ -65,7 +65,7 @@
 ## 🎮 Live Status
 
 <p align="center">
-  <img src="[https://discord.c99.nl/widget/theme-3/971076696189067335.png?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
+  <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
        alt="Discord Presence" 
        style="width: 70%; max-width: 100%; height: auto; border-radius: 20px;" />
 </p>
