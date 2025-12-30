@@ -14,28 +14,28 @@
 
 ---
 
-## 🕶️Profile
+## Profile
 
-- 💣 **Offensive Security Operative** — simulating **real-world intrusions**
-- 🔍 Focus Zones: `OSINT` | `Steganography` | `DFIR`
-- 🎯 Specialization: **Red-Team Recon & CTF Operations**
-- 💻 Arsenal: Python | Bash | Custom Exploit Scripts
+-  **Offensive Security Operative** — simulating **real-world intrusions**
+-  Focus Zones: `OSINT` | `Steganography` | `DFIR`
+-  Specialization: **Red-Team Recon & CTF Operations**
+-  Arsenal: Python | Bash | Custom Exploit Scripts
 
 
 ---
 
-## 🎯Projects
+## Projects
 
-- 🕸️ **Web-Based Honeypot Trap**  
+-  **Web-Based Honeypot Trap**  
   ↳ Mirrors real services, **tricks attackers**, and logs their every move  
   ↳ Captures payloads, **studies attack vectors**, strengthens defenses  
 
-- 📡 **OSINT Recon Kits** *(Private)*  
+-  **OSINT Recon Kits** *(Private)*  
   ↳ Automated dorks, metadata extraction, and social-engineering footprints  
 
 ---
 
-## ⚡Skills
+## Skills
 
 - Platforms: `TryHackMe` | `HackTheBox` | `CTFtime`  
 - Strongholds:  
@@ -55,14 +55,14 @@
 
 ---
 
-## 📡 Comms Channel
+##  Comms Channel
 
 - [LinkedIn](https://linkedin.com/in/priyanshu-c-221084206)  
 - [TryHackMe](https://tryhackme.com/p/snowaxe)  
 
 ---
 
-## 🎮 Live Status
+##  Live Status
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/971076696189067335?theme=dark&showDisplayName=false&hideDiscrim=true&hideAvatar=true&idleMessage=Sleeping+in+the+matrix..." 
